@@ -1,6 +1,5 @@
-# CSX42: Assignment 4
-## Name: Manali Mahavir Patil, Shivkumar Subhash Kothale
-### I have used  slack days out of 
+## Implementation of Prime Server which return whether a number is prime or not by connecting clients to it using multithreading in java
+## Name: Shivkumar Subhash Kothale
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
@@ -36,25 +35,5 @@ Description: Compiles your code and generates .class files inside the BUILD fold
 
 
 Note: Arguments accept the absolute path of the files.
-
------------------------------------------------------------------------
-## Description:
-
-
-
------------------------------------------------------------------------
-### Academic Honesty statement:
------------------------------------------------------------------------
-
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating I will have to sign an
-official form that I have cheated and that this form will be stored in
-my official university record. I also understand that I will receive a
-grade of 0 for the involved assignment for my first offense and that I
-will receive a grade of F for the course for any additional
-offense.""
-
-Date: -- 16-11-2023
 
 
