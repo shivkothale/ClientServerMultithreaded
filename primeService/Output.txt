@@ -1,0 +1,9 @@
+1234: A E I B F J C G K D H L M Q R N --  6 0 Graduated!
+3424: A X Y B E I F J M K N --  4 2 Graduated!
+1234: A E I F J M G K N H L O P Q R B --  6 1 Graduated!
+1234: S A Q I X R W Z E M V U N F J K G O Y P L B --  8 1 Graduated!
+1234: V S I X U J W --  0 1 Cant Graduate
+1234: R X S E V Q F I A J T Z K --  0 1 Cant Graduate
+1234: E U I J Q R K S Z X --  0 3 Cant Graduate
+1234: E M Q X R V S Y F G A W I T B J C H K N --  7 2 Graduated!
+9789: I R M Z A S B V Q E U Y C J T D K N L O F --  7 2 Graduated!

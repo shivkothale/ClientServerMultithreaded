@@ -1,0 +1,9 @@
+DEBUG: Client Username passed :manali1
+DEBUG: Client Integer to check passed :678
+DEBUG: <primeQueryResponse><intValue>678</intValue><isPrime>No</isPrime></primeQueryResponse>
+DEBUG: query : manali1: query=[678]]
+DEBUG: Client Username passed :shivkumar
+DEBUG: Client Integer to check passed :68
+DEBUG: <primeQueryResponse><intValue>68</intValue><isPrime>No</isPrime></primeQueryResponse>
+DEBUG: query : manali1: query=[678]]
+DEBUG: query : shivkumar: query=[68]]
